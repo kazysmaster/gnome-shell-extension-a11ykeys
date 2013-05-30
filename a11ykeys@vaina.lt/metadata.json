@@ -1,0 +1,9 @@
+{
+   "shell-version": ["3.6", "3.8"], 
+   "uuid": "a11ykeys@vaina.lt", 
+   "name": "Accessibility Keys", 
+   "description": "Accessibility keyboard features indicator on the panel", 
+   "url": "https://github.com/kazysmaster/gnome-shell-extension-a11ykeys",
+   "original-authors": "Kazimieras Vaina",
+   "version" : 1
+}
