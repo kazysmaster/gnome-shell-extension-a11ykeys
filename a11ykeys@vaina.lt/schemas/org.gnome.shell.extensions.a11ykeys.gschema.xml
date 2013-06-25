@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="gnome-shell-extension-a11ykeys">
+	<schema path="/org/gnome/shell/extensions/a11ykeys/" id="org.gnome.shell.extensions.a11ykeys">
+		<key name="indicators" type="as">
+			<default>["stickykeys"]</default>
+			<summary>A list of visible indicators</summary>
+			<description>A list of visible indicators</description>
+		</key>
+	</schema>
+</schemalist>
