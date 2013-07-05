@@ -61,8 +61,6 @@ A11yKeysIndicator.prototype = {
 	},
 	
 	destroy: function() {
-		this.sticky.destroy();
-		this.slow.destroy();
 		PanelMenu.Button.prototype.destroy.call(this);
 	},
 	
